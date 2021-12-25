@@ -39,6 +39,7 @@
 
 # root compiled files
 *_ACLiC_*
+# say hi
 
 *.root
 
